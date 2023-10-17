@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "taaVq1UeAsDVpjZJDIr4m6c4qYvbFfHfVb0hGxexCD4zI6PuG1izNFkvTg1GqJrWIan1V0B53nY5iCgsatRU/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Common\\ECommerce.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sit307\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.2\\microsoft.identitymodel.abstractions.7.0.2.nupkg.sha512",
+    "C:\\Users\\sit307\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.2\\microsoft.identitymodel.jsonwebtokens.7.0.2.nupkg.sha512",
+    "C:\\Users\\sit307\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.2\\microsoft.identitymodel.logging.7.0.2.nupkg.sha512",
+    "C:\\Users\\sit307\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.2\\microsoft.identitymodel.tokens.7.0.2.nupkg.sha512",
+    "C:\\Users\\sit307\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.2\\system.identitymodel.tokens.jwt.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

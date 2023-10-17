@@ -1,0 +1,12 @@
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Model\bin\Debug\net7.0\ECommerce.Model.deps.json
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Model\bin\Debug\net7.0\ECommerce.Model.dll
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Model\bin\Debug\net7.0\ECommerce.Model.pdb
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Model\obj\Debug\net7.0\ECommerce.Model.csproj.AssemblyReference.cache
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Model\obj\Debug\net7.0\ECommerce.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Model\obj\Debug\net7.0\ECommerce.Model.AssemblyInfoInputs.cache
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Model\obj\Debug\net7.0\ECommerce.Model.AssemblyInfo.cs
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Model\obj\Debug\net7.0\ECommerce.Model.csproj.CoreCompileInputs.cache
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Model\obj\Debug\net7.0\ECommerce.Model.dll
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Model\obj\Debug\net7.0\refint\ECommerce.Model.dll
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Model\obj\Debug\net7.0\ECommerce.Model.pdb
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Model\obj\Debug\net7.0\ref\ECommerce.Model.dll

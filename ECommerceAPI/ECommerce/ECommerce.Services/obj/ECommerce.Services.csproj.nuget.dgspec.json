@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Services\\ECommerce.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+        "projectName": "ECommerce.Data",
+        "projectPath": "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+        "packagesPath": "C:\\Users\\sit307\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sit307\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Model\\ECommerce.Model.csproj": {
+                "projectPath": "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Model\\ECommerce.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.151, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Model\\ECommerce.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Model\\ECommerce.Model.csproj",
+        "projectName": "ECommerce.Model",
+        "projectPath": "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Model\\ECommerce.Model.csproj",
+        "packagesPath": "C:\\Users\\sit307\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sit307\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Services\\ECommerce.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Services\\ECommerce.Services.csproj",
+        "projectName": "ECommerce.Services",
+        "projectPath": "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Services\\ECommerce.Services.csproj",
+        "packagesPath": "C:\\Users\\sit307\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sit307\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
+                "projectPath": "C:\\Users\\sit307\\Desktop\\AngularProject\\ECommerceAPI\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

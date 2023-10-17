@@ -1,0 +1,17 @@
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Services\bin\Debug\net7.0\ECommerce.Services.deps.json
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Services\bin\Debug\net7.0\ECommerce.Services.dll
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Services\bin\Debug\net7.0\ECommerce.Services.pdb
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Services\bin\Debug\net7.0\ECommerce.Data.dll
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Services\bin\Debug\net7.0\ECommerce.Model.dll
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Services\bin\Debug\net7.0\ECommerce.Data.pdb
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Services\bin\Debug\net7.0\ECommerce.Model.pdb
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Services\obj\Debug\net7.0\ECommerce.Services.csproj.AssemblyReference.cache
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Services\obj\Debug\net7.0\ECommerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Services\obj\Debug\net7.0\ECommerce.Services.AssemblyInfoInputs.cache
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Services\obj\Debug\net7.0\ECommerce.Services.AssemblyInfo.cs
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Services\obj\Debug\net7.0\ECommerce.Services.csproj.CoreCompileInputs.cache
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Services\obj\Debug\net7.0\ECommerce.Services.csproj.CopyComplete
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Services\obj\Debug\net7.0\ECommerce.Services.dll
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Services\obj\Debug\net7.0\refint\ECommerce.Services.dll
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Services\obj\Debug\net7.0\ECommerce.Services.pdb
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Services\obj\Debug\net7.0\ref\ECommerce.Services.dll

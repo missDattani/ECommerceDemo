@@ -1,0 +1,15 @@
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Data\bin\Debug\net7.0\ECommerce.Data.deps.json
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Data\bin\Debug\net7.0\ECommerce.Data.dll
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Data\bin\Debug\net7.0\ECommerce.Data.pdb
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Data\bin\Debug\net7.0\ECommerce.Model.dll
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Data\bin\Debug\net7.0\ECommerce.Model.pdb
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Data\obj\Debug\net7.0\ECommerce.Data.csproj.AssemblyReference.cache
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Data\obj\Debug\net7.0\ECommerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Data\obj\Debug\net7.0\ECommerce.Data.AssemblyInfoInputs.cache
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Data\obj\Debug\net7.0\ECommerce.Data.AssemblyInfo.cs
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Data\obj\Debug\net7.0\ECommerce.Data.csproj.CoreCompileInputs.cache
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Data\obj\Debug\net7.0\ECommerce.Data.csproj.CopyComplete
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Data\obj\Debug\net7.0\ECommerce.Data.dll
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Data\obj\Debug\net7.0\refint\ECommerce.Data.dll
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Data\obj\Debug\net7.0\ECommerce.Data.pdb
+C:\Users\sit307\Desktop\AngularProject\ECommerceAPI\ECommerce\ECommerce.Data\obj\Debug\net7.0\ref\ECommerce.Data.dll
